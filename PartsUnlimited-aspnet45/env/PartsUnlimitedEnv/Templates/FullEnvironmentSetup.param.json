@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "WebsiteName": {
-      "value": null
+      "value": "dotnettestapplication"
     },
     "PUL_ServerName": {
-      "value": null
+      "value": "deploysql"
     },
     "PUL_DBLogin": {
       "value": "AdminUser"
@@ -27,7 +27,7 @@
       "value": "Basic"
     },
     "PUL_HostingPlanName": {
-      "value": null
+      "value": basicdeployplan
     },
     "PUL_HostingPlanSKU": {
       "value": "Standard"
